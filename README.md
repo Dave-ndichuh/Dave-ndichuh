@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://ndichuh-consultants.github.io/Davetechy.github.io/](https://ndichuh-consultants.github.io/Davetechy.github.io/)
+- 👨‍💻 All of my projects are available at https://dave-ndichuh.github.io/DaveFolio/
 
 - 💬 Ask me about **Python (Django), sql, Html, CSS, Bootstrap, php, JavaScript**
 
