@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m a **Web Developer**
 
-- 🌱 I’m currently learning **Python for Data science, SQl**
+- 🌱 I’m currently learning **Javascript, Django**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://ndichuh-consultants.github.io/Davetechy.github.io/](https://ndichuh-consultants.github.io/Davetechy.github.io/)
 
-- 💬 Ask me about **Python, sql, Html, CSS, php, JavaScript**
+- 💬 Ask me about **Python (Django), sql, Html, CSS, Bootstrap, php, JavaScript**
 
 - 📫 How to reach me **machahdavis@gmail.com**
 
-- 📄 Know about my experiences [https://ndichuh-consultants.github.io/Davetechy.github.io/](https://ndichuh-consultants.github.io/Davetechy.github.io/)
+- 📄 Know about my experiences: https://dave-ndichuh.github.io/DaveFolio/
 
 - ⚡ Fun fact **Everyone both young and old has something to offer,**
 
